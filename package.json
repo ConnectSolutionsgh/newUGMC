@@ -57,6 +57,7 @@
   },
   "devDependencies": {
     "auto-changelog": "2.2.0",
+    "enzyme-adapter-react-17-updated": "^1.0.2",
     "gulp-sass": "^5.1.0",
     "react-scripts": "^3.4.2"
   },
