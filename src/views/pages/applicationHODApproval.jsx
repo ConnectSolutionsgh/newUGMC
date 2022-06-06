@@ -4,7 +4,7 @@ import axios from 'axios'
 import moment from 'moment'
 import auth from '../../components/services/authService'
 import Swal from 'sweetalert2'
-import { ModalHover } from 'react-modal-hover'
+
 import {
   Row,
   Col,
