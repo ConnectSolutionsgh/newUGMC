@@ -305,7 +305,7 @@ const HodRequestApproval = () => {
             Approve All
           </CButton>
 
-          <Table className="lg">
+          <Table className="striped hover lg">
             <caption>Unapproved Leave Applications</caption>
             <thead>
               <tr>

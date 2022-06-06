@@ -218,7 +218,7 @@ const LeaveRecall = () => {
         onChange={handleSearch}
       />
 
-      <Table className="table-lg">
+      <Table className="table-lg striped hover">
         <caption>Leave Recall</caption>
         <thead>
           <tr>
