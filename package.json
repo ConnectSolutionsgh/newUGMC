@@ -1,9 +1,9 @@
 {
-  "name": "@coreui/coreui-free-react-admin-template",
-  "version": "3.1.0",
+  "name": "palmsoftleaveapp",
+  "version": "1.0.0",
   "description": "PSM",
   "author": {
-    "name": "CoreUI",
+    "name": "Palmsoft",
     "url": "https://coreui.io",
     "github": "https://github.com/coreui",
     "twitter": "https://twitter.com/core_ui"
