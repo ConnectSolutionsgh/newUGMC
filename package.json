@@ -52,7 +52,8 @@
     "reactstrap": "^9.0.2",
     "redux": "4.0.5",
     "sass": "^1.50.1",
-    "sweetalert2": "^11.4.9"
+    "sweetalert2": "^11.4.9",
+    "typescript": "^3.9.10"
   },
   "devDependencies": {
     "auto-changelog": "2.2.0",
