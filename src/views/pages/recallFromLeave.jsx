@@ -240,8 +240,8 @@ const LeaveRecall = () => {
               <td>{s.fullName}</td>
               <td>{s.leave}</td>
               <td>{s.daysRequested}</td>
-              <td>{moment(s.startDate).format('DD,MMMM,YYYY')}</td>
-              <td>{moment(s.endDate).format('DD,MMMM,YYYY')}</td>
+              <td>{moment(s.startDate).format('DD-MMMM-YYYY')}</td>
+              <td>{moment(s.endDate).format('DD-MMMM-YYYY')}</td>
 
               {/* <td>
       <button className="but btn-houReject" onClick={null}>
