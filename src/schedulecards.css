@@ -1,0 +1,41 @@
+.grey-bg {
+  background-color: #00386c;
+  border-radius: 10px;
+  /*background-color: #f5f7fa;*/
+}
+
+.card {
+  background-color: #fafafa;
+  border-radius: 20px;
+  color: #01579b;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.text-uppercase {
+  color: whitesmoke;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.text {
+  color: whitesmoke;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.ptext {
+  color: #1a237e;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.leaveyear {
+  color: #ff1744;
+}
+.requested {
+  color: #ffab00;
+}
+
+.left {
+  color: #00bfa5;
+}
